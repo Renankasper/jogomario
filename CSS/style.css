@@ -58,7 +58,7 @@ body {
     position: absolute;
     bottom: 20px;
     width: 5%;
-    animation: jump 500ms infinite;
+    animation: jump 500ms ease-out;
 
 }
 
