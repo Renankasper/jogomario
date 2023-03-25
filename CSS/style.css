@@ -54,6 +54,11 @@ body {
     animation: pipe-animation 1.8s infinite linear;
 }
 
+.mario {
+    position: absolute;
+    bottom: 20px;
+    width: 5%;
+}
 
 @keyframes pipe-animation {
     from {
